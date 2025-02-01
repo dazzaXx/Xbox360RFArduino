@@ -4,4 +4,6 @@ The code says to use two diodes in series as the RF Module needs 3.3v and NOT 5v
 
 Anything can be used as long as the Module recieves it's 3.3v, DO NOT supply it with 5v.
 
+The Arduino Code is not made by me in any shape or form, all the credits are in the original .ino file and is left untouched, I merely wanted to archive it just in case.
+
 ![WiringDiagram](https://github.com/user-attachments/assets/bf4add1c-d4a5-42b2-8857-e7db7ecbe608)
